@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/parentregistration",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ParentRegistration\\Providers\\ParentRegistrationServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ParentRegistration\\": ""
+        }
+    }
+}

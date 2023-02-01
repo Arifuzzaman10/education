@@ -1,0 +1,82 @@
+{
+  "admin_section": {
+    "lang": "admin.admin_section",
+    "module_id": 11
+  },
+  "student_info": {
+    "lang": "student.student_information",
+    "module_id": 61
+  },
+  "academics": {
+    "lang": "academics.academics",
+    "module_id": 245
+  },
+  "study_material": {
+    "lang": "study.study_material",
+    "module_id": 87
+  },
+  "accounts": {
+    "lang": "accounts.accounts",
+    "module_id": 137
+  },
+  "human_resource": {
+    "lang": "hr.human_resource",
+    "module_id": 160
+  },
+  "leave": {
+    "lang": "leave.leave",
+    "module_id": 188
+  },
+  "custom_field": {
+    "lang": "student.custom_field",
+    "module_id": 1100
+  },
+  "examination": {
+    "lang": "exam.examination",
+    "module_id": 207
+  },
+  "online_exam": {
+    "lang": "exam.online_exam",
+    "module_id": 875
+  },
+  "homework": {
+    "lang": "homework.home_work",
+    "module_id": 277
+  },
+  "communicate": {
+    "lang": "communicate.communicate",
+    "module_id": 286
+  },
+  "library": {
+    "lang": "library.library",
+    "module_id": 298
+  },
+  "inventory": {
+    "lang": "inventory.inventory",
+    "module_id": 315
+  },
+  "transport": {
+    "lang": "transport.transport",
+    "module_id": 348
+  },
+  "dormitory": {
+    "lang": "dormitory.dormitory",
+    "module_id": 362
+  },
+  "reports": {
+    "lang": "reports.reports",
+    "module_id": 376
+  },
+  "system_settings": {
+    "lang": "system_settings.system_settings",
+    "module_id": 398
+  },
+  "style": {
+    "lang": "style.style",
+    "module_id": 485
+  },
+  "front_setting": {
+    "lang": "front_settings.front_settings",
+    "module_id": 492
+  }
+}

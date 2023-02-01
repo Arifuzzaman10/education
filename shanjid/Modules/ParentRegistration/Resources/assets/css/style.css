@@ -1,0 +1,882 @@
+@media only screen and (max-width:580px) {
+
+    .m_wd_full {
+        width: 100% !important;
+        min-width: 100% !important;
+        height: auto !important
+    }
+
+    .m_wd_full_db {
+        width: 100% !important;
+        min-width: 100% !important;
+        height: auto !important;
+        display: block;
+    }
+
+    .m_al {
+        text-align: left !important
+    }
+
+    .m_db {
+        display: block !important
+    }
+
+    .m_display_n {
+        height: 20px !important;
+        display: block;
+    }
+
+    .m_h10 {
+        height: 10px !important;
+        display: block;
+    }
+
+    .m_display_none {
+        display: none;
+    }
+
+    .m_img_mc_fix {
+        display: block !important;
+        text-align: center !important;
+    }
+}
+
+
+
+@media only screen and (max-width:580px) {
+
+    .m_wd_full {
+        width: 100% !important;
+        min-width: 100% !important;
+        height: auto !important
+    }
+
+    .m_wd_full_db {
+        width: 100% !important;
+        min-width: 100% !important;
+        height: auto !important;
+        display: block;
+    }
+
+    .m_al {
+        text-align: left !important
+    }
+
+    .m_db {
+        display: block !important
+    }
+
+    .m_display_n {
+        height: 20px !important;
+        display: block;
+    }
+
+    .m_h10 {
+        height: 10px !important;
+        display: block;
+    }
+
+    .m_display_none {
+        display: none;
+    }
+
+    .m_img_mc_fix {
+        display: block !important;
+        text-align: center !important;
+    }
+}
+
+
+
+
+
+
+
+
+ @media (max-width: 991px) {
+     .login.admin.hight_100 .login-height .form-wrap {
+         padding: 50px 8px;
+     }
+
+     .login-area .login-height {
+         min-height: auto;
+     }
+ }
+
+ label.error {
+     position: absolute;
+     top: 100%;
+     text-align: center;
+     left: 3%;
+     color: red;
+ }
+
+ span.error-message {
+     display: flex;
+ }
+
+ div.error-message {
+     display: table;
+ }
+
+ #g-recaptcha-error {
+     display: flex;
+     margin-top: 10px !important;
+ }
+
+
+ /* line 346, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker {
+     padding: 30px 25px;
+ }
+
+ /* line 348, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker.dropdown-menu {
+     border: 0;
+ }
+
+ /* line 351, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker.dropdown-menu td {
+     padding: 10px 12.5px;
+ }
+
+ .datepicker table tr td.day:hover {
+     border-radius: 20px;
+     background: -webkit-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: -moz-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: -o-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+ }
+
+ /* line 354, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker.dropdown-menu th,
+ .datepicker.dropdown-menu td {
+     color: #828bb2;
+ }
+
+ /* line 359, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker .datepicker thead tr:first-child th,
+ .datepicker .datepicker tfoot tr th {
+     cursor: pointer;
+     border-radius: 20px;
+     font-size: 12px;
+ }
+
+ /* line 365, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker table tr td {
+     border-radius: 20px;
+ }
+
+ /* line 374, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker table tr td.day {
+     -webkit-transition: all 0.4s ease 0s;
+     -moz-transition: all 0.4s ease 0s;
+     -o-transition: all 0.4s ease 0s;
+     transition: all 0.4s ease 0s;
+ }
+
+ /* line 376, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker table tr td.day:hover {
+     border-radius: 20px;
+ }
+
+ /* line 385, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker thead tr:first-child th {
+     position: relative;
+ }
+
+ /* line 387, ../../xampp/htdocs/infixeduB/public/backEnd/scss/admin/_component.scss */
+ .datepicker thead tr:first-child th:after {
+     content: '';
+     position: absolute;
+     left: 0px;
+     top: 0px;
+     z-index: -1;
+     width: 99%;
+     height: 100%;
+     border-radius: 50px;
+     border: 1px solid #7c32ff;
+ }
+
+
+ .primary-input:focus~label,
+ .primary-input.read-only-input~label,
+ .has-content.primary-input~label {
+     top: -14px;
+     font-size: 11px;
+     color: rgba(130, 139, 178, 0.8);
+     text-transform: capitalize;
+     -webkit-transition: all 0.4s ease 0s;
+     -moz-transition: all 0.4s ease 0s;
+     -o-transition: all 0.4s ease 0s;
+     transition: all 0.4s ease 0s;
+     text-align: left;
+ }
+
+ .primary-input:focus~label,
+ .primary-input.read-only-input~label,
+ .has-content.primary-input~label {
+     top: -14px;
+     font-size: 11px;
+     color: rgba(130, 139, 178, 0.8);
+     text-transform: capitalize;
+     -webkit-transition: all 0.4s ease 0s;
+     -moz-transition: all 0.4s ease 0s;
+     -o-transition: all 0.4s ease 0s;
+     transition: all 0.4s ease 0s;
+     text-align: left;
+     padding-left: 20px;
+ }
+
+ .primary-input {
+     color: #415094;
+     font-size: 13px;
+     width: 100%;
+     border: 0;
+     padding: 4px 0;
+     border-bottom: 1px solid rgba(130, 139, 178, 0.3);
+     background-color: transparent;
+     padding-bottom: 20px;
+     position: relative;
+     border-radius: 0px;
+     z-index: 99;
+ }
+
+ .input-right-icon button i {
+     position: relative;
+     top: 5px;
+ }
+
+ .gradient-bg,
+ .school-table .dropdown .dropdown-toggle:hover,
+ .school-table .dropdown .dropdown-toggle:focus,
+ .bootstrap-datetimepicker-widget table td.hour:hover,
+ .bootstrap-datetimepicker-widget table td.minute:hover,
+ .bootstrap-datetimepicker-widget table td span.glyphicon-chevron-up:hover:after,
+ .bootstrap-datetimepicker-widget table td span.glyphicon-chevron-down:hover:after,
+ .datepicker table tr td.active.day,
+ .datepicker table tr td.day:hover,
+ .datepicker thead tr:first-child th:hover,
+ .pagination .page-link:hover,
+ .common-calendar .fc-month-view .fc-day.fc-widget-content.fc-today,
+ .common-calendar .fc-state-default.fc-corner-left:hover,
+ .common-calendar .fc-button.fc-state-default:hover,
+ .primary-btn.white:hover,
+ .nice-select.tr-bg:hover,
+ .admin .navbar .right-navbar .dropdown .badge,
+ .admin .navbar .right-navbar .dropdown .primary-btn,
+ .student-activities .single-activity .title:before,
+ .single-cms-box:hover .single-cms .overlay,
+ .client .events-item:hover .card .card-body .date,
+ .client.light .overview-area .nav-tabs .nav-link:hover,
+ .client.light .overview-area .nav-tabs .nav-link.active,
+ .client.color .overview-area .nav-tabs .nav-link:hover,
+ .client.color .overview-area .nav-tabs .nav-link.active {
+     background: -webkit-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: -moz-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: -o-linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+     background: linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+ }
+
+
+ .primary-input:focus label,
+ .primary-input.read-only-input label,
+ .has-content.primary-input~label {
+     padding-left: 20px;
+ }
+
+ .primary-input {
+     padding-left: 20px;
+ }
+
+
+ .single_registration_area .relation-button {
+     color: #828bb2;
+     border: 0px;
+     border-bottom: 0px solid #cec6e0;
+     border-radius: 0px;
+     background: transparent !important;
+     padding: 0px 20px 20px 34px;
+     font-size: 12px;
+     font-weight: 400;
+     letter-spacing: 1px;
+     margin: 5px 0;
+ }
+
+ .single_registration_area .relation-button label {
+     position: relative;
+     float: left;
+     line-height: 16px;
+     text-indent: 28px;
+     cursor: pointer;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+     margin-bottom: 0;
+     font-size: 14px;
+     font-weight: 400;
+     text-transform: capitalize;
+     padding-left: 5px !important;
+ }
+
+
+ /* line 29, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .form-group .form-control {
+     color: #828bb2;
+     border: 0px;
+     border-bottom: 1px solid #cec6e0;
+     border-radius: 0px;
+     background: transparent !important;
+     padding: 0px 20px 20px;
+     font-size: 12px;
+     font-weight: 400;
+     letter-spacing: 1px;
+     margin: 5px 0;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 29, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .single_registration_area .form-group .form-control {
+         padding: 0px 10px 10px;
+     }
+ }
+
+ /* line 44, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .form-control {
+     height: auto;
+ }
+
+ /* line 47, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .form-group {
+     text-transform: capitalize;
+     font-size: 12px;
+     color: #828bb2;
+ }
+
+ /* line 52, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .nice-select.niceSelect {
+     padding: 0 20px 13px;
+     line-height: 31px;
+     margin-bottom: 1rem;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 52, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .single_registration_area .nice-select.niceSelect {
+         padding: 0 10px 10px;
+     }
+ }
+
+ /* line 60, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .nice-select:after {
+     margin-top: -17px;
+     right: 24px;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 60, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .single_registration_area .nice-select:after {
+         right: 16px;
+     }
+ }
+
+ /* line 68, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .nice-select.open:after {
+     margin-top: 10px;
+     right: 21px;
+ }
+
+ /* line 72, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .nice-select.bb .current {
+     font-weight: 400;
+ }
+
+ /* line 76, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .input_box_tittle h4 {
+     font-size: 12px;
+     text-transform: uppercase;
+     font-weight: 400;
+     color: #828bb2;
+     margin-bottom: 12px;
+     text-align: left;
+ }
+
+ /* line 84, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .input_box_tittle label {
+     font-size: 14px;
+     font-weight: 400;
+ }
+
+ /* line 88, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .input_box_tittle .form-group {
+     margin: 17px 0 30px;
+ }
+
+ /* line 92, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .billing_info {
+     justify-content: space-between;
+ }
+
+ /* line 94, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_registration_area .billing_info .form-group {
+     width: 48%;
+ }
+
+ /* line 99, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .registration_area_logo {
+     padding: 40px 0 100px;
+     text-align: center;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 99, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .registration_area_logo {
+         padding: 40px 0 40px;
+     }
+
+     /* line 104, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .registration_area_logo img {
+         max-width: 100px;
+     }
+ }
+
+ @media (min-width: 576px) and (max-width: 768px) {
+
+     /* line 99, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .registration_area_logo {
+         padding: 40px 0 40px;
+     }
+
+     /* line 110, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .registration_area_logo img {
+         max-width: 120px;
+     }
+ }
+
+ /* line 115, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .registration_footer {
+     padding-top: 50px;
+ }
+
+ /* line 118, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+     margin-bottom: 10px;
+ }
+
+ /* line 124, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .single_additional_text {
+     text-align: left;
+     padding: 30px 25px;
+     background-color: #e2def0;
+ }
+
+ @media (max-width: 768px) {
+
+     /* line 124, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .single_additional_services .single_additional_text {
+         padding: 50px 15px 20px;
+     }
+ }
+
+ /* line 131, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .single_additional_text h5 {
+     color: #415094;
+     text-transform: capitalize;
+     font-size: 14px;
+     margin: 0 0 12px;
+     letter-spacing: 0;
+ }
+
+ @media (min-width: 991px) {
+
+     /* line 131, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .single_additional_services .single_additional_text h5 {
+         max-width: 90%;
+     }
+ }
+
+ /* line 141, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .single_additional_text p {
+     margin-bottom: 0;
+     font-size: 12px;
+     color: #828bb2;
+ }
+
+ /* line 147, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services span {
+     background-color: #ff6d00;
+     color: #fff;
+     padding: 8px 23px;
+     top: 0;
+     right: 0;
+     position: absolute;
+ }
+
+ /* line 155, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services label {
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     top: 0;
+     left: 0;
+ }
+
+ /* line 164, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .single_order_details {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     border-bottom: 1px solid #e2dff0;
+     padding: 13px 0;
+ }
+
+ /* line 170, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .single_order_details input {
+     background-color: transparent;
+     border: 0px solid transparent;
+     text-align: right;
+ }
+
+ /* line 174, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .single_order_details input:focus {
+     outline: -webkit-focus-ring-color auto 0;
+ }
+
+ /* line 178, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .single_order_details p,
+ .order_details_iner .single_order_details input {
+     font-size: 13px;
+     font-weight: 300;
+     color: #828bb2;
+     margin-bottom: 0px;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 164, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .order_details_iner .single_order_details {
+         text-align: left;
+     }
+ }
+
+ /* line 188, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .cupon_code {
+     display: flex;
+     flex-wamp: wamp;
+     justify-content: space-between;
+ }
+
+ @media (max-width: 576px) {
+
+     /* line 188, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .order_details_iner .cupon_code {
+         display: block;
+     }
+ }
+
+ /* line 195, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .order_details_iner .cupon_code .single_cupon_code {
+     flex: 41% 0 0;
+ }
+
+ /* line 201, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .cupon_code_iner h4 {
+     font-size: 14px;
+     float: left;
+     text-align: left;
+     text-transform: uppercase;
+     margin: 33px 0 24px;
+ }
+
+ /* line 208, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .cupon_code_iner input.form-control {
+     background-color: transparent;
+     border: 0px transparent;
+     border-bottom: 1px solid #cec7e1;
+     border-radius: 0;
+     text-transform: uppercase;
+     color: #828bb2;
+     font-size: 12px;
+     padding: 2px 0 20px;
+ }
+
+ /* line 218, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .cupon_code_iner ::placeholder {
+     color: #828bb2;
+ }
+
+ /* line 221, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .cupon_code_iner .input-group-append {
+     margin-left: 20px;
+ }
+
+ /* line 224, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .cupon_code_iner a {
+     border-radius: 5px;
+     background-image: -moz-linear-gradient(0deg, #7c32ff 0%, #a235ec 70%, #c738d8 100%);
+     background-image: -webkit-linear-gradient(0deg, #7c32ff 0%, #a235ec 70%, #c738d8 100%);
+     background-image: -ms-linear-gradient(0deg, #7c32ff 0%, #a235ec 70%, #c738d8 100%);
+     box-shadow: 0px 10px 20px 0px rgba(108, 39, 255, 0.3);
+     padding: 10px 25px;
+     color: #fff;
+     text-transform: uppercase;
+     font-size: 12px;
+     border-radius: 6px !important;
+     display: inline-block;
+ }
+
+ /* line 239, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .privacy_police p {
+     text-align: left;
+     margin-bottom: 0;
+     font-size: 12px;
+     color: #828bb2;
+     line-height: 22px;
+     margin-bottom: 15px;
+ }
+
+ /* line 250, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .privacy_police .single_privacy_police:last-child p {
+     margin-bottom: 0;
+ }
+
+ /* line 255, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .privacy_police .common-radio:empty~label:before {
+     top: 3px;
+ }
+
+ /* line 258, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .privacy_police .common-radio:checked~label:after {
+     top: 0px;
+ }
+
+ /* line 264, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .login_button .primary-btn {
+     padding: 10px 43px;
+ }
+
+ @media (max-width: 768px) {
+
+     /* line 264, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+     .login_button .primary-btn {
+         padding: 5px 25px;
+     }
+ }
+
+ /* line 272, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .registration_footer p {
+     font-size: 14px;
+     color: #828bb2;
+ }
+
+ /* line 277, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .registration_footer span {
+     color: #fff;
+ }
+
+ /* line 280, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .registration_footer a {
+     color: #fff;
+ }
+
+ /* line 284, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .aingle_additional_img {
+     width: 150px;
+     height: 130px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #cec7e1;
+ }
+
+ /* line 291, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .aingle_additional_img img {
+     width: 150px;
+     height: 130px;
+ }
+
+ /* line 296, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_text {
+     cursor: pointer;
+ }
+
+ /* line 300, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .active_pack {
+     background-color: #2b0568;
+ }
+
+ /* line 302, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .active_pack h5 {
+     color: #fff;
+ }
+
+ /* line 305, /Applications/MAMP/htdocs/infixsass/public/backEnd/scss/admin/_register.scss */
+ .single_additional_services .active_pack p {
+     color: #828bb2;
+ }
+
+
+
+
+
+
+
+#selectStaffsDiv,
+.forStudentWrapper {
+    display: none;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 26px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 24px;
+    width: 24px;
+    left: 3px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background: linear-gradient(90deg, #7c32ff 0%, #c738d8 51%, #7c32ff 100%);
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px linear-gradient(90deg, #7c32ff 0%, #c738d8 51%, #7c32ff 100%);
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.buttons_div_one {
+    /* border: 4px solid #FFFFFF; */
+    border-radius: 12px;
+
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 4px;
+    padding-left: 0px;
+}
+
+.buttons_div {
+    border: 4px solid #19A0FB;
+    border-radius: 12px
+}
+
+
+
+.AeTable {
+    width: 60%;
+    border: 0px;
+    background: background:linear-gradient(90deg, rgb(124, 50, 255) 0%, rgb(199, 56, 216) 51%, rgb(124, 50, 255) 100%) 0% 0% / 200%;
+}
+
+.AeTd {
+    padding: 25px 25px 0px 25px;
+    font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 30px;
+    text-align: center;
+    display: block;
+}
+
+.AeTbaletd10 {
+    padding: 0 5px 0 5px;
+}
+
+.AeTable11 {
+    background: #FFFFFF;
+    width: 600px;
+}
+
+.AeTableTd106 {
+    padding: 0 25px 0 25px;
+}
+
+.td113 {
+    border-top: 1px solid #eeeeee;
+    padding: 30px 0 0 0px;
+}
+
+.td199 {
+    background: linear-gradient(90deg, rgb(124, 50, 255) 0%, rgb(199, 56, 216) 51%, rgb(124, 50, 255) 100%) 0% 0% / 200%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: block;
+}
+
+.td128 {
+    padding: 14px 30px 14px 30px;
+    text-transform: uppercase;
+    font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.3;
+    color: #ffffff;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.td167 {
+    font-family: 'PT Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #24252a;
+    line-height: 22px;
+    text-align: left;
+    display: block;
+}

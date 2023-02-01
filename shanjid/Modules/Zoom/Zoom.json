@@ -1,0 +1,29 @@
+{
+    "Zoom": {
+        "item_id": "27623128",
+        "migration": { 
+            "no_table": "Modules/Zoom/Database/Migrations/2021_06_30_044055_zoom_update.php",
+            "zoom_meetings":"Modules/Zoom/Database/Migrations/2020_06_10_060128_create_zoom_meetings_table.php",
+            "zoom_meeting_users":"Modules/Zoom/Database/Migrations/2020_06_10_134834_create_zoom_meeting_users_table.php",
+            "zoom_settings":"Modules/Zoom/Database/Migrations/2020_06_16_051034_create_zoom_settings_table.php",
+            "zoom_virtual_class":"Modules/Zoom/Database/Migrations/2020_06_18_084210_create_zoom_virtual_class_table.php",
+            "zoom_virtual_class_teachers":"Modules/Zoom/Database/Migrations/2020_06_18_084255_create_zoom_virtual_class_teachers_table.php"
+        },
+        "names": [
+            "zoom_meetings",
+            "zoom_meeting_users",
+            "zoom_settings",
+            "zoom_virtual_class",
+            "zoom_virtual_class_teachers"
+        ],
+        "versions": [
+            "2.0"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Zoom module for live virtual class and meeting in this system at a time. Thanks for using."
+        ]
+    }
+}

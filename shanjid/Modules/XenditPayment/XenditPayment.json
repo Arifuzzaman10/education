@@ -1,0 +1,22 @@
+{
+    "XenditPayment": {
+        
+        "item_id": "23876323",
+        
+        "migration": {
+            "xendit_payment_setting" : "Modules/XenditPayment/Database/Migrations/2021_06_26_120238_create_xendit_payment_setting_table.php"
+        },
+        "names": [
+            "xendit_payment_setting"
+        ],
+        "versions": [
+            "1.1"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Xendit Payment gateway module for online payemnt in this system specially Philipine and Indonesia. Thanks for using."
+        ]
+    }
+}

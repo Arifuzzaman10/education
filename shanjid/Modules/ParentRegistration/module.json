@@ -1,0 +1,13 @@
+{
+    "name": "ParentRegistration",
+    "alias": "parentregistration",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ParentRegistration\\Providers\\ParentRegistrationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

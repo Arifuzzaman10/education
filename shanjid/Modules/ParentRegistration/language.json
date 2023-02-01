@@ -1,0 +1,16 @@
+{
+    "ParentRegistration": {
+        "variable": [
+            "registration",
+            "header",
+            "footer",
+            "hide"
+        ],
+        "value": [
+            "Registration",
+            "Header",
+            "Footer",
+            "Hide"
+        ]
+    }
+}

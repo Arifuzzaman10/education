@@ -1,0 +1,23 @@
+<?php 
+return [
+    'style'=>'Style',
+    'background_settings'=>'BackGround Settings',
+    'color_theme'=>'Color Theme',
+    'add_style'=>'Add Style',
+    'select_position'=>'Select Position',
+    'background_type'=>'BackGround Type',
+    'make_default'=>'Make Default',
+    'activated'=>'Activated',
+    'background_image'=>'BackGround Image',
+    'color'=>'Color',
+    'dashboard_background'=>'Dashboard Background',
+    'login_page_background'=>'Login Page Background',
+    'color_style_list'=>'Color Style List',
+    'primary_color'=>'Primary Color',
+    'primary_color2'=>'Primary Color2',
+    'primary_color3'=>'Primary Color3',
+    'title_color'=>'Title Color',
+    'sidebar_bg'=>'Sidebar Background',
+    'text_color'=>'Text Color',
+    'color_style'=>'Color Style',
+];

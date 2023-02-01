@@ -1,0 +1,13 @@
+{
+    "name": "XenditPayment",
+    "alias": "xenditpayment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\XenditPayment\\Providers\\XenditPaymentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

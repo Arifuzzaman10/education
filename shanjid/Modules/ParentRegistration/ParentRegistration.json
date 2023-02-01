@@ -1,0 +1,21 @@
+{
+    "ParentRegistration": {
+        "migration": [
+            "2020_04_27_061914_create_sm_student_registrations_table.php",
+            "2020_04_27_061915_create_sm_registration_settings_table.php"
+        ],
+        "names": [
+            "sm_student_registrations",
+            "sm_registration_settings"
+        ],
+        "versions": [
+            "0.1"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Parent Registration module for Registration. Thanks for using."
+        ]
+    }
+}
